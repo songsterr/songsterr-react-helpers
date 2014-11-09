@@ -1,0 +1,28 @@
+{
+  "name": "songsterr-react-helpers",
+  "version": "0.0.1",
+  "description": "Some helpful React stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:songsterr/songsterr-react-helpers.git"
+  },
+  "keywords": [
+    "react",
+    "helpers",
+    "tools",
+    "utilities"
+  ],
+  "author": "Andrey Subbotin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songsterr/songsterr-react-helpers/issues"
+  },
+  "homepage": "https://github.com/songsterr/songsterr-react-helpers",
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
+}
