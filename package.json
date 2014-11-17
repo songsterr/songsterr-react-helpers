@@ -1,6 +1,6 @@
 {
   "name": "songsterr-react-helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Some helpful React stuff.",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/songsterr/songsterr-react-helpers",
   "dependencies": {
-    "underscore": "^1.7.0"
+    "lodash": "^2.4.1"
   }
 }
